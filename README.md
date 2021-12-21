@@ -5,6 +5,28 @@ This is a Final project of course: How to Win a Data Science Competition: Learn 
 The data is from: [Predict Future Sales, 
 Final project for "How to win a data science competition" Coursera course](https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data)
 
+ ```
+ 📦Predict_Future_Sales-main
+ ┣ 📂models
+ ┃ ┣ 📜model1_lgbm.pkl
+ ┃ ┣ 📜model2_xgb.pkl
+ ┃ ┣ 📜model3_linreg.pkl
+ ┃ ┣ 📜model4_ridge.pkl
+ ┃ ┗ 📜model5_lasso.pkl
+ ┣ 📂submissions
+ ┃ ┣ 📜submission.csv
+ ┃ ┣ 📜submission_LASSO.csv
+ ┃ ┣ 📜submission_LGBM.csv
+ ┃ ┣ 📜submission_LINREG.csv
+ ┃ ┣ 📜submission_RIDGE.csv
+ ┃ ┗ 📜submission_XGBM.csv
+ ┣ 📜Part 1 Data Processing and Engineering.ipynb
+ ┣ 📜Part 1 Data Processing and Engineering.pdf
+ ┣ 📜Part 2 Model Training and Prediction.ipynb
+ ┣ 📜Part 2 Model Training and Prediction.pdf
+ ┗ 📜README.md
+ ```
+
 `Part 1 Data Processing and Engineeringt.ipynb` includes:
 
 * [1. Importing data](#sec1)
