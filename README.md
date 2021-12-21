@@ -24,3 +24,13 @@ Final project for "How to win a data science competition" Coursera course](https
     * [4.2 Matrix factorization of TFIDF processed features](#sec4_2)
 
 `Part 2 Model Training and Prediction.ipynb` includes:
+
+* [1. Model Training](#sec1)
+    * [1.1 Validation scheme](#sec1_1)
+    * [1.2 LightGBM Regressor](#sec1_2)
+    * [1.3 XGBoost Regressor](#sec1_3)
+        * [1.3.1 Training XGBoost Regressor on GPU](#sec1_3_1)
+    * [1.4 Linear regression](#sec1_4)
+* [2. Ensembling Method](#sec2)
+    * [2.1 Ensembling: LightGBM + Linear Regression](#sec2_1)    
+* [3. Predictions](#sec3)  
