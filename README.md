@@ -12,6 +12,8 @@ Final project for "How to win a data science competition" Coursera course](https
   - [`Part 2 Model Training and Prediction.ipynb` includes:](#part-2-model-training-and-predictionipynb-includes)
   - [Public leaderboard Score](#public-leaderboard-score)
 
+
+**Folder Structure:**
  ```
  📦Predict_Future_Sales-main
  ┣ 📂models
