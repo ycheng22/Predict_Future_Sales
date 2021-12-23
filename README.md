@@ -86,9 +86,9 @@ Final project for "How to win a data science competition" Coursera course](https
 - Comparing the predictions of previous models with ensembling method
 
 ## Public leaderboard Score
-| Model | XGBoost | XGBoost | LightGBM | LinearRegression | Ridge | Lasso  |
-|-------|---------|---------|----------|------------------|-------|--------|
-| Score | 0.96326 | 0.98971 | 0.98313  |      1.07821     |1.07822| 1.21744|
+| Model | CatBoost | XGBoost | LightGBM | LinearRegression | Ridge | Lasso  |
+|-------|----------|---------|----------|------------------|-------|--------|
+| Score | 0.96326  | 0.98971 | 0.98313  |      1.07821     |1.07822| 1.21744|
 
 
 
